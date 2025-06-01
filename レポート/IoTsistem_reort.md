@@ -148,11 +148,13 @@ NodeREDで可視化する
 - ATOM MatrixからのデータがNodeREDで可視化される
 ### [設定] EC2インスタンスにNode-REDをインストールする
 
-![AWSの画面](image-30.png)
+![EC2](image-27.png)
 
 ### [設定] AWS IoT CoreにNodeREDのためのデバイスを追加登録する
 
 ![AWSの画面](image-29.png)
+
+![全てのモノ](image-26.png)
 
 ### [実装] AWS IoT CoreからNodeREDにデータを送る(NodeREDでsubscribeする)
 
@@ -171,9 +173,3 @@ NodeREDで可視化する
 ### [テスト] Atom Matrix〜MQTT bridge〜AWS IoT Core〜Node-REDとデータが送信され、可視化できることを確認する
 
 ![Atom Matrix](image-25.png)
-
-![全てのモノ](image-26.png)
-
-![EC2](image-27.png)
-
-## 今回の実装の感想
