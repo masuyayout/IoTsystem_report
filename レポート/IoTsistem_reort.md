@@ -1,5 +1,9 @@
 # IoTシステム工学レポート
-## テップ1 ATOM Matrixの加速度センサを使い、Wi-Fiに接続する
+<div style="text-align: right;">
+4I35　舛屋　耀大
+</div>
+
+## ステップ1 ATOM Matrixの加速度センサを使い、Wi-Fiに接続する
 ### 目標
 - エッジデバイス(ATOM Matrix)の開発環境の確認
   - arduino-cliを使ったATOM Matrix(ESP32)の開発
